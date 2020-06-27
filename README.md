@@ -5,8 +5,8 @@ A python script to extract information of movies/TV Series inputted by the user 
 </p>
 
 
-<p>
 The information to be extracted are:
+
 - **title** : Title of the Movie/TV show
 - **type**  : Whether the title entered by user is a Movie or a TV show
 - **duration** : Runtime of the Movie or No of seasons in the TV show
@@ -22,7 +22,6 @@ The information to be extracted are:
 - **certificates** : The ratings certificates given to titles based upon country (G/PG/15+17+/R/18+... etc) 
 - **story** : A brief storyline of the Movie/TV Show
 
-</p>
 
 ### Tools/API used
 - Beautiful Soup 
@@ -52,9 +51,9 @@ The model is built in an Anaconda Environment (Jupyter Notebook) and Python 3.5.
 ### Demo
 
 Run IMDB-Scraper.py
-<img src="input.PNG" align="left" height="200" width="400" >
-<img src="output.PNG" align="left" height="200" width="400" >
+<img src="Image/input.PNG" align="left">
+<img src="Image/output.PNG" align="left" >
 
-<img src="input2.PNG" align="left" height="200" width="400" >
-<img src="output2.PNG" align="left" height="200" width="400" >
+<img src="Image/input2.PNG" align="left" >
+<img src="Image/output2.PNG" align="left" >
 
