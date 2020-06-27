@@ -51,6 +51,7 @@ The model is built in an Anaconda Environment (Jupyter Notebook) and Python 3.5.
 ## Demo
 
 **Run IMDB-Scraper.py**
+
 &nbsp;&nbsp;
 
 <img src="Images/input.PNG" align="left">
@@ -60,6 +61,7 @@ The model is built in an Anaconda Environment (Jupyter Notebook) and Python 3.5.
 <img src="Images/Output.PNG" align="left" >
 
 &nbsp;&nbsp;
+
 **Run IMDB-Scraper.py**
 
 &nbsp;&nbsp;&nbsp;
