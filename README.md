@@ -77,7 +77,7 @@ The model is built in an Anaconda Environment (Jupyter Notebook) and Python 3.5.
 
 1. Incorporate the following features- 
 	- Check frequency of requests to avoid overloading the server
-	- Check the number of requests nade, so we can halt the loop in case the number of expected requests is exceeded.
+	- Check the number of requests made, so we can halt the loop in case the number of expected requests is exceeded.
 	- Check the status code of our requests, so we make sure the server is sending back the proper responses
 
 2. Test the code for more data points to see if code needs any further re-modification
