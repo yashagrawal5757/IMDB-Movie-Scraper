@@ -52,13 +52,16 @@ The model is built in an Anaconda Environment (Jupyter Notebook) and Python 3.5.
 
 **Run IMDB-Scraper.py**
 
-![](Images/input.png)
+<img src="Images/input.PNG" align="left">
 
-![](Images/Output.png)
+
+<img src="Images/Output.PNG" align="left" >
 
 
 **Run IMDB-Scraper.py**
 
-![](Images/input2.png)
+<img src="Images/input2.PNG" align="left" >
 
-![](Images/output2.png)
+
+<img src="Images/output2.PNG" align="left" >
+
