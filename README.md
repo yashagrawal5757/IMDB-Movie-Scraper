@@ -51,9 +51,9 @@ The model is built in an Anaconda Environment (Jupyter Notebook) and Python 3.5.
 ### Demo
 
 Run IMDB-Scraper.py
-<img src="Image/input.PNG" align="left">
-<img src="Image/output.PNG" align="left" >
+<img src="Images/input.PNG" align="left">
+<img src="Images/output.PNG" align="left" >
 
-<img src="Image/input2.PNG" align="left" >
-<img src="Image/output2.PNG" align="left" >
+<img src="Images/input2.PNG" align="left" >
+<img src="Images/output2.PNG" align="left" >
 
