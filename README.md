@@ -71,3 +71,17 @@ The model is built in an Anaconda Environment (Jupyter Notebook) and Python 3.5.
 
 <img src="Images/output2.PNG" align="left" >
 
+&nbsp;&nbsp;
+
+## Future Work
+
+1. Incorporate the following features- 
+	- Check frequency of requests to avoid overloading the server
+	- Check the number of requests nade, so we can halt the loop in case the number of expected requests is exceeded.
+	- Check the status code of our requests, so we make sure the server is sending back the proper responses
+
+2. Test the code for more data points to see if code needs any further re-modification
+
+## Bug/Issue Requests
+
+If you find a bug or any modifications that can be made to the code, kindly post them [here](https://github.com/yashagrawal5757/IMDB-Movie-Scraper/issues/new)
