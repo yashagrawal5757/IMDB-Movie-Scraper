@@ -22,29 +22,23 @@ The information to be extracted are:
 - **certificates** : The ratings certificates given to titles based upon country (G/PG/15+17+/R/18+... etc) 
 - **story** : A brief storyline of the Movie/TV Show
 
+## Motivation
+I started learning Beautiful Soup as a web scraping tool for one of my ML projects(Netflix Recommender system) few days back. The idea was to gain sufficient knowledge so that I can develop a code to fetch just the IMDB ratings for movies on netflix. So I went through couple of youtube tutorials/blogs, however what I found was that most of them demonstrated usage of Beautiful Soup just to fetch the Top 250 movies from IMDB site. None of them targeted to crawl details for a specific movie. Thus I decided to put the theoretical knowledge I gained into practice and make one such scraper myself.  
 
-### Tools/API used
+## Tools/API used
 
-***
 - Beautiful Soup 
 - Jupyter Notebook
 
-### Requirements
-
-***
-
-<p align="justify">
+## Requirements
 
 The model is built in an Anaconda Environment (Jupyter Notebook) and Python 3.5.0. The libraries to be installed are:
 - pandas
 - requests
 - BeautifulSoup
 	
-</p>
 
-### Installation + Usage
-
-***
+## Installation + Usage
 
 - Clone this repo to your local machine
 - Extract the zip file you downloaded
@@ -54,20 +48,17 @@ The model is built in an Anaconda Environment (Jupyter Notebook) and Python 3.5.
 
 **Note** - The code is functional for movie or tv series of any country. There can be instances where information for some of the fields may not be given on the IMDB page. In that case appropriate statements have been issued using Try-Except block 
 
-### Demo
+## Demo
 
-Run IMDB-Scraper.py
+**Run IMDB-Scraper.py**
 
-*** 
+![](Images/input.png)
 
-<img src="Images/input.PNG" align="left">
-<img src="Images/output.PNG" align="left" >
+![](Images/Output.png)
 
 
-Run IMDB-Scraper.py
+**Run IMDB-Scraper.py**
 
-***
+![](Images/input2.png)
 
-<img src="Images/input2.PNG" align="left" >
-<img src="Images/output2.PNG" align="left" >
-
+![](Images/output2.png)
