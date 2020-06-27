@@ -24,10 +24,14 @@ The information to be extracted are:
 
 
 ### Tools/API used
+
+***
 - Beautiful Soup 
 - Jupyter Notebook
 
 ### Requirements
+
+***
 
 <p align="justify">
 
@@ -40,6 +44,8 @@ The model is built in an Anaconda Environment (Jupyter Notebook) and Python 3.5.
 
 ### Installation + Usage
 
+***
+
 - Clone this repo to your local machine
 - Extract the zip file you downloaded
 - Install the required libraries as mentioned above
@@ -51,8 +57,16 @@ The model is built in an Anaconda Environment (Jupyter Notebook) and Python 3.5.
 ### Demo
 
 Run IMDB-Scraper.py
+
+*** 
+
 <img src="Images/input.PNG" align="left">
 <img src="Images/output.PNG" align="left" >
+
+
+Run IMDB-Scraper.py
+
+***
 
 <img src="Images/input2.PNG" align="left" >
 <img src="Images/output2.PNG" align="left" >
